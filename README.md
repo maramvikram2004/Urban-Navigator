@@ -25,7 +25,11 @@ The project relies on custom datasets created through manual compilation and web
 
 **Modeling:**<br />
 Logistic Regression: Baseline model for predicting the presence of metro stops.
-Random Forest: Enhanced predictions by capturing complex relationships in the data.
-XGBoost: Further refined predictions with gradient boosting for improved accuracy.<br />
+<br />Random Forest: Enhanced predictions by capturing complex relationships in the data.
+<br />XGBoost: Further refined predictions with gradient boosting for improved accuracy.<br />
+Accuracy in Random forest-81%<br />
+Accuracy in XGboost-86%<br />
+F1 score in Random forest-87%<br />
+F1 score in XGboost-91%<br />
 <br />**Validation:**<br />
 Cross-validation techniques were employed to ensure that the models are both accurate and reliable across different datasets.
