@@ -33,3 +33,8 @@ F1 score in Random forest-87%<br />
 F1 score in XGboost-91%<br />
 <br />**Validation:**<br />
 Cross-validation techniques were employed to ensure that the models are both accurate and reliable across different datasets.
+
+![chennai_xg](https://github.com/user-attachments/assets/4d773407-7df7-4ff2-9761-ece5b844dbc8)
+
+![chennai_rf](https://github.com/user-attachments/assets/d600af33-9242-4f6c-8838-e36f82c2fd41)
+
